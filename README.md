@@ -44,7 +44,7 @@ The framework aims to demonstrate the effectiveness of RAG systems in specialize
 
 - Extend the dataset to cover broader domains and improve retrieval diversity
 
--This implementation lays the groundwork for a forthcoming study exploring retrieval–generation alignment and knowledge grounding efficiency.
+- This implementation lays the groundwork for a forthcoming study exploring retrieval–generation alignment and knowledge grounding efficiency.
 
 
 
